@@ -1,0 +1,11 @@
+Kính gửi Phòng Nhân sự,
+
+Em tên là Nguyễn Hồ Phát, hiện đang sinh sống tại Quận 12, TP. Hồ Chí Minh. Qua thông tin tuyển dụng của quý công ty, em được biết công ty đang cần tuyển vị trí DevOps Engineer. Với những kiến thức và kinh nghiệm đã tích lũy được, em xin ứng tuyển vào vị trí này.
+
+Trong quá trình học tập và làm việc, em đã có cơ hội làm việc với nhiều công nghệ và công cụ liên quan đến DevOps và quản trị hệ thống như Docker, Kubernetes, Ansible, Jenkins, CI/CD, và các công cụ quản lý mã nguồn như Git/GitHub. Em đã tham gia vào các dự án phát triển phần mềm, từ việc phân tích và triển khai nghiệp vụ đến tích hợp và triển khai liên tục (CI/CD). Điều này đã giúp em nâng cao kỹ năng kỹ thuật cũng như khả năng làm việc nhóm và giải quyết vấn đề hiệu quả.
+
+Kinh nghiệm làm việc của em tại các dự án như Clothing e-commerce website (M2M-Clothing), Quản lý giáo dân (Tân Hưng), và Code Oxi (Game marketplace) đã giúp em rèn luyện kỹ năng lập trình, quản lý cơ sở dữ liệu, và triển khai ứng dụng trên các nền tảng đám mây. Mặc dù kinh nghiệm của em chưa nhiều, em luôn nỗ lực hết mình để học hỏi và hoàn thiện bản thân. Em tin rằng với sự tận tâm và đam mê, em có thể đóng góp tích cực vào sự phát triển và thành công của công ty.
+
+Em đã đính kèm CV của mình trong email này để quý công ty có thể xem xét chi tiết hơn về quá trình học tập và kinh nghiệm làm việc của em. Em rất mong nhận được phản hồi từ quý công ty và hy vọng có cơ hội trao đổi thêm về vị trí công việc này.
+
+Trân trọng cảm ơn,
